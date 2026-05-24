@@ -1,5 +1,6 @@
 # Employee Data Analysis
 
+**Google Data Analytics Certificate - Capstone Project**
 
 **Author:** Sharifa Mubarak | **Date:** 2026
 
@@ -9,7 +10,7 @@
 
 [View the Full Interactive Story Here](https://public.tableau.com/views/hr_17793160776310/Story)
 
-Click the link to explore .
+Click the link to explore 10 pages of interactive dashboards.
 
 ---
 
@@ -20,6 +21,7 @@ Click the link to explore .
 | `Employee_Analysis.pdf` | **Full Report** (11 pages) - Detailed analysis, findings, and recommendations |
 | `EMPLOYEE DATA ANALYSIS.pdf` | **Presentation Slides** - Summary for quick review |
 | `TABLEAU_LINK.txt` | Interactive Tableau dashboard link |
+| `employee_data_analysis.ipynb` | **Python Code** - Complete analysis (data cleaning, merging, statistics, visualizations) |
 
 ---
 
@@ -37,8 +39,8 @@ Click the link to explore .
 
 ## 🛠 Tools Used
 
-- **Python** (Pandas, NumPy) - Data cleaning & analysis
-- **Tableau Public** - Interactive dashboards & story
+- **Python (Pandas, NumPy, Matplotlib, Seaborn)** - Data cleaning, analysis, and visualization
+- **Tableau Public** - Interactive dashboards and story
 - **Excel** - Initial data exploration
 
 ---
@@ -56,6 +58,12 @@ Click the link to explore .
 ## 📝 Limitations
 
 This is **synthetic data** from Kaggle, created for educational purposes. Correlations between variables were near zero, confirming its synthetic nature.
+
+---
+
+## 🔗 Data Source
+
+[Kaggle - Employee/HR Dataset (All in One)](https://www.kaggle.com/datasets/ravindrasinghrana/employeedataset)
 
 ---
 
