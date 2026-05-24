@@ -1,0 +1,29 @@
+=======================================================================
+   INTERACTIVE TABLEAU STORY: EMPLOYEE DATA ANALYSIS
+=======================================================================
+
+Project by: Sharifa Mubarak
+
+🔗 LINK TO THE INTERACTIVE DASHBOARD:
+https://public.tableau.com/app/profile/sharifa.mubarak/viz/hr_17793160776310/Story
+
+=======================================================================
+📊 WHAT YOU CAN EXPLORE IN THIS STORY (9 Pages):
+
+1. Cover + Introduction & Data Source
+2. Data Quality Issue (38% misclassification error)
+3. Overview: KPIs after correction (51.1% true turnover rate)
+4. Training Impact on Turnover (Failed: 54.3% left vs Completed: 48.6% left)
+5. Termination Reasons by Department (Software Engineering, Sales, Production)
+6. Recruitment Dashboard (Status, Gender, Education, Monthly)
+7. Recommendations (5 actionable strategies)
+8. Conclusion & Next Steps
+
+=======================================================================
+📌 NOTES:
+- This is synthetic data from Kaggle (Employee/HR Dataset).
+- The story is best viewed on a desktop/laptop screen.
+- Use the arrows at the bottom to navigate between pages.
+
+=======================================================================
+Last updated: 2026-05-24
