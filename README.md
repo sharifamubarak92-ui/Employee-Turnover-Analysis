@@ -9,7 +9,7 @@
 
 [View the Full Interactive Story Here](https://public.tableau.com/views/hr_17793160776310/Story)
 
-Click the link to explore 9 pages of interactive dashboards.
+Click the link to explore .
 
 ---
 
